@@ -23,6 +23,7 @@ Dans celui là on était demandé de développer une application desktop pour la
 * java.sql API
 * MySQL
 * IntelliJ
+* Maven
 
 
 
